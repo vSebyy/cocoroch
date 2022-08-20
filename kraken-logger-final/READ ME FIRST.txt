@@ -1,0 +1,32 @@
+------------------------------------------------------------------
+provided by the one and only, kraken drops.
+mostly dev'd by alex
+special thanks to discord injection and some others <3
+------------------------------------------------------------------
+
+
+
+
+
+
+.________________________________________________________________.
+|								 |
+|			  «How to use»				 |
+|----------------------------------------------------------------|
+|								 |	
+| Open the "INSTALL ME FIRST" folder and install python		 |	
+|								 |
+| MAKE SURE THAT THE SETUP LOOKS LIKE THE SETUP ON THE IMAGE	 |
+| THATS ON THE FOLDER!!!					 |
+| 								 |
+| After thats done, simply run the STARTUP.bat file to start it  |
+|----------------------------------------------------------------|
+|			  «How to use»				 |
+|________________________________________________________________|
+
+
+
+PS: If you want to add an icon to your grabber, download an image that
+you would like to use as your icon and change the image's name to icon.
+
+Supported image files: PNG, JPG, JPEG
